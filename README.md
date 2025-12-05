@@ -2,6 +2,8 @@
 
 A professional **Power BI dashboard** designed to visualize and analyze cybersecurity incidents globally. This dashboard showcases key SOC metrics, threat landscapes, and operational performance to provide actionable insights.
 
+![Dashboard Preview]([https://link-publico-de-tu-imagen.png](https://github.com/datosyciber/GlobalIncidentInsights/blob/main/Prototype%20dashboard.png))
+
 ---
 
 ## Dashboard Overview
